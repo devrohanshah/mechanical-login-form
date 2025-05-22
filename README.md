@@ -11,7 +11,7 @@ A visually engaging and interactive login form with mechanical animations built 
 
 The Mechanical Login Form is a creative user interface project that implements an interactive login experience with rich visual feedback. As users interact with form elements, they trigger intricate mechanical animations that simulate gears, levers, and pulleys, creating a uniquely satisfying form submission process.
 
-![Demo Preview](https://mechanical-login-form.vercel.app/demo-mechanical-login-form.png/800x400?text=Mechanical+Login+Form)
+![Demo Preview](https://mechanical-login-form.vercel.app/demo-mechanical-login-form.png/)
 
 ## ✨ Features
 
