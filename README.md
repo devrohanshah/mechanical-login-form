@@ -38,7 +38,7 @@ The login form validates passwords with the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/mechanical-login-form.git
+   git clone https://github.com/devrohanshah/mechanical-login-form.git
    ```
 
 2. Open the project folder:
@@ -81,4 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-© 2025 Mechanical Login Form | Created with ❤️ by Rohan Shah
+© 2025 Mechanical Login Form | Created with ❤️ by [Rohan Shah](https://rohanshah.com.np)
